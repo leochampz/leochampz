@@ -1,5 +1,16 @@
 #Um script simples para iniciar minha conta no github
 #by Ch4mpz
+import time
+print('█───█─▄▀▀─█───▄▀▀─▄▀▀▄─█▄─▄█─▄▀▀')
+time.sleep(1)
+print('█───█─█───█───█───█──█─█▀▄▀█─█──')
+time.sleep(1)
+print('█───█─█▀▀─█───█───█──█─█─▀─█─█▀▀')
+time.sleep(1)
+print('█▄█▄█─█───█───█───█──█─█───█─█──')
+time.sleep(1)
+print('─▀─▀───▀▀──▀▀──▀▀──▀▀──▀───▀──▀▀')
+time.sleep(1)
 n = str(input('Qual o seu nome? '))
 import time
 time.sleep(1)
